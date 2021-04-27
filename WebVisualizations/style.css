@@ -49,13 +49,12 @@
   }
 
   .ctr2 {
-    width: 850px;
-    height: auto;
-    position: absolute;
+    width: 830px;
+    height: 750px;
     left: 50%;
     top: 50%; 
-    margin-left: -400px;
-    margin-top: -400px;
+    margin-left: 500px;
+    margin-top: 100px;
     padding: 40px;
     padding-top: 50px;
     padding-bottom: 50px;
